@@ -27,7 +27,7 @@ export default function HeroSection() {
             </AnimatedChild>
             <AnimatedChild>
               <p className="mt-6 text-xl text-gray-600 dark:text-gray-400 max-w-lg">
-                We help founders quickly build MVPs using the MERN stack and AI tools. Launch faster, validate sooner,
+                We help founders quickly build MVPs using the Latest Technologies and AI tools. Launch faster, validate sooner,
                 succeed quicker.
               </p>
             </AnimatedChild>
