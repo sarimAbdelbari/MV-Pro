@@ -72,7 +72,7 @@ export default function HeroSection() {
               <div className="relative bg-white dark:bg-gray-800 rounded-lg p-6 shadow-xl transition-all duration-300 group-hover:-translate-y-1">
                 <div className="aspect-video rounded-lg overflow-hidden bg-gradient-to-br from-blue-50 to-purple-50 dark:from-blue-900/20 dark:to-purple-900/20 flex items-center justify-center">
                   <img
-                    src="/placeholder.svg?height=400&width=600"
+                    src="/hero.jpg?height=400&width=600"
                     alt="Startup illustration"
                     className="w-full h-full object-cover"
                   />
