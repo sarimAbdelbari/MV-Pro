@@ -1,7 +1,8 @@
 # Fikrat-Agency
 # MVPro (Fikrat Agency) — Algeria’s Premier MVP Agency
 
-[![Website](https://img.shields.io/badge/Visit-fikrat.tech-blue)](https://fikrat.tech)
+![Screenshot 2025-06-04 201839](https://github.com/user-attachments/assets/c26e9998-bd8d-4be4-9e82-5ebee57c0be6)
+
 
 MVPro (operating at [fikrat.tech](https://fikrat.tech)) is Algeria’s leading Minimum Viable Product (MVP) agency. We help startup founders rapidly turn their ideas into functional prototypes using the MERN stack and modern AI tools.
 
